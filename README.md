@@ -9,5 +9,5 @@ I used a Raspberry Pi to run the script every 10 minutes as a CRONtab, and my gr
 
 Please note that for privacy reasons, I have replaced my Gmail auth key with filler text, as well as the desired emails. Please fill these in accordingly if you wish to adapt the script for your needs.
 
-If you use this script, please email me at henrywanderson@engineer.com
+If you use this script, please email me at henryanderson@engineer.com
 I would be happy to know it helped others!
